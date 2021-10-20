@@ -2,14 +2,6 @@
 https://github.com/Peng9899/Individual-_project.git
 library(gitcreds)
 gitcreds_set()
-hello ahddkhfkawhfhwas
-faihshas
-fjksajfkasjfkajskfjak]
+Here is my website
 
-
-sadashduashd
-
-
-iashdhkashd
-
-dpdpdpdpd
+https://peng-chen-website.netlify.app
